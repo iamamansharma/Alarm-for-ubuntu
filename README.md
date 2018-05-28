@@ -1,4 +1,6 @@
-# Alarm-for-ubuntu
+# Alarm-using-python
+Works in ubuntu
+Can be altered for windows and mac
 Alarm using python and (.sh) for ubuntu
 
 # Getting started
